@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "TrendCast Vibes";
+export const description = "Show the top 3 Farcaster trends with neon flair and auto‑cast recommendations.";
 export const url = process.env.NEXT_PUBLIC_URL;
